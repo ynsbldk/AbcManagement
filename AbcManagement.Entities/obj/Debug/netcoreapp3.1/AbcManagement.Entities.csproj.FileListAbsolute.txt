@@ -1,0 +1,9 @@
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\bin\Debug\netcoreapp3.1\AbcManagement.Entities.deps.json
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\bin\Debug\netcoreapp3.1\AbcManagement.Entities.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\bin\Debug\netcoreapp3.1\AbcManagement.Entities.pdb
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.AssemblyInfo.cs
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.pdb
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Entities\obj\Debug\netcoreapp3.1\AbcManagement.Entities.csprojAssemblyReference.cache

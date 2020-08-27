@@ -1,0 +1,14 @@
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.Business.deps.json
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.Business.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.Business.pdb
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.DataAccess.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.Entities.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.DataAccess.pdb
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\bin\Debug\netcoreapp3.1\AbcManagement.Entities.pdb
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.csprojAssemblyReference.cache
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.AssemblyInfoInputs.cache
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.AssemblyInfo.cs
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.csproj.CopyComplete
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.dll
+C:\Users\Yunus\Desktop\AbcManagement.Website\AbcManagement.Business\obj\Debug\netcoreapp3.1\AbcManagement.Business.pdb
